@@ -3,14 +3,14 @@
 
 ## Why study computer science?
 
-- ...fill in...
+- I've always had a passion with tech, video, games, etc jsut the futre in general
 
 
 
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 
-- ...fill in...
+- My past experiences, teamwork, and leadership
 
 
 
@@ -19,7 +19,7 @@
 
 ## How will you get there?
 
-- ...fill in...
+- what do you meaan? im already here! but in all seriousness through determination, learning, and experience i will get there.
 
 
 
